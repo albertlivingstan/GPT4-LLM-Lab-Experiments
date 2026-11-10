@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Generated experiment outputs
+corrected_text.txt
+flashcards.txt
+meeting_minutes.txt
+story.txt
+translated_text.txt
+summary.txt
+rewritten_text.txt
+product_description.txt
+email_reply.txt
+
+# Local/private data
+data/my_resume.txt
+.env
+.DS_Store
